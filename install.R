@@ -1,4 +1,12 @@
-install.packages("sf")
-install.packages("tidyverse")
-install.packages("mapview")
-install.packages("readr")
+if (!requireNamespace("sf", quietly = TRUE)) {
+  install.packages("sf", repos = "https://cloud.r-project.org/")
+}
+if (!requireNamespace("tidyverse", quietly = TRUE)) {
+  install.packages("tidyverse", repos = "https://cloud.r-project.org/")
+}
+if (!requireNamespace("mapview", quietly = TRUE)) {
+  install.packages("mapview", repos = "https://cloud.r-project.org/")
+}
+if (!requireNamespace("readr", quietly = TRUE)) {
+  install.packages("readr", repos = "https://cloud.r-project.org/")
+}
