@@ -4,3 +4,4 @@ libssl-dev
 libxml2-dev
 gfortran
 libclang-dev
+apt-utils
