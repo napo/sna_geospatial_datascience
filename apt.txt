@@ -1,7 +1,4 @@
-r-base
-libcurl4-openssl-dev
-libssl-dev
-libxml2-dev
-gfortran
-libclang-dev
 apt-utils
+libclang-dev
+libzmq3-dev
+wget
