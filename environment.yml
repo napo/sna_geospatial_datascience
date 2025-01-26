@@ -14,6 +14,7 @@ dependencies:
   - r-e1071
   - r-class
   - r-units
+  - r-geojsonio
   - gdal
   - proj
   - geos
