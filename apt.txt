@@ -9,3 +9,11 @@ r-cran-tidyverse
 r-cran-readr
 r-cran-devtools
 r-cran-shiny
+libcurl4-openssl-dev
+libssl-dev
+libxml2-dev
+libgdal-dev
+libproj-dev
+libgeos-dev
+libudunits2-dev
+gfortran
