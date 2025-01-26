@@ -1,2 +1,5 @@
 #!/bin/bash
-R --quiet -e "IRkernel::installspec(user = FALSE)"
+
+# Registra IRkernel per Jupyter nel contesto utente locale
+R --quiet -e "IRkernel::installspec(user = TRUE)"
+
