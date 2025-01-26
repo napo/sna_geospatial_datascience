@@ -1,5 +1,11 @@
-r-base
 apt-utils
 libclang-dev
 libzmq3-dev
 wget
+r-base
+r-cran-sf
+r-cran-irkernel
+r-cran-tidyverse
+r-cran-readr
+r-cran-devtools
+r-cran-shiny
