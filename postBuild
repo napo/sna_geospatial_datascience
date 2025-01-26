@@ -1,0 +1,2 @@
+#!/bin/bash
+R --quiet -e "IRkernel::installspec(user = FALSE)"
