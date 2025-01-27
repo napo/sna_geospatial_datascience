@@ -17,6 +17,7 @@ dependencies:
   - r-geojsonio
   - r-dplyr
   - r-ggplot2
+  - r-tidygeocoder
   - gdal
   - proj
   - geos
