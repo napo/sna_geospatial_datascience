@@ -2,15 +2,19 @@ name: mybinder-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.9  # Aggiungi Python se necessario
-  - r-base=4.2  # Versione di R
+  - r-revgeo
+  - r-httr      
+  - r-jsonlite  
+  - r-leaflet  
+  - r-mapview   
+  - python=3.9  
+  - r-base=4.2  
   - r-devtools
   - r-irkernel
   - r-shiny
   - r-tidyverse
   - r-sf
   - r-readr
-  - r-mapview
   - r-e1071
   - r-class
   - r-units
