@@ -2,9 +2,6 @@ name: mybinder-env
 channels:
   - conda-forge
 dependencies:
-  - r-revgeo
-  - r-httr      
-  - r-jsonlite  
   - r-leaflet  
   - r-mapview   
   - python=3.9  
