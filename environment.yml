@@ -16,6 +16,7 @@ dependencies:
   - r-units
   - r-geojsonio
   - r-dplyr
+  - r-ggplot2
   - gdal
   - proj
   - geos
