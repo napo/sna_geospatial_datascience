@@ -19,6 +19,7 @@ dependencies:
   - r-ggplot2
   - r-tidygeocoder
   - r-revgeo
+  - r-codetools
   - gdal
   - proj
   - geos
