@@ -15,6 +15,7 @@ dependencies:
   - r-class
   - r-units
   - r-geojsonio
+  - r-dplyr
   - gdal
   - proj
   - geos
