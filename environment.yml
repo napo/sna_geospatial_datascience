@@ -11,6 +11,7 @@ dependencies:
   - r-shiny
   - r-tidyverse
   - r-sf
+  - r-osmdata
   - r-readr
   - r-e1071
   - r-class
