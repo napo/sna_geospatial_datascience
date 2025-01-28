@@ -4,6 +4,8 @@ La parte teorica è nelle [slide](https://docs.google.com/presentation/d/e/2PACX
 
 La parte di laboratorio invece è composta da 4 file con estensione .ipynb che possono essere eseguiti in Jupyter Notebook in linguaggio R.
 
+Nella directory [scripts](https://github.com/napo/sna_geospatial_datascience/tree/main/scripts) sono presenti gli script per R.
+
 Qualora non si abbia possibilità di installare tutto l'ambiente è disponibile una configurazione per MyBinder permettendo quindi a chiunque di lavorare attraverso il browser.\
 Per questa scelta basta seguire questo [link](https://mybinder.org/v2/gh/napo/sna_geospatial_datascience/HEAD) o premere sul bottone qui sotto
 
