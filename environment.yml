@@ -15,6 +15,11 @@ dependencies:
   - r-readr
   - r-e1071
   - r-class
+  - r-dbscan
+  - r-ggspatial
+  - r-prettymapr
+  - r-plotly
+  - r-hexbin
   - r-units
   - r-geojsonio
   - r-dplyr
